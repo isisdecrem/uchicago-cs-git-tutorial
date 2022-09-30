@@ -1,2 +1,3 @@
 CNET: isisdecrem
-UChicago CS Git Tutorial.
+git 
+git is cool
